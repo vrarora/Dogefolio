@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Dogefolio/static/css/main.c9b5544a.chunk.css",
+    "main.js": "/Dogefolio/static/js/main.fb67efd4.chunk.js",
+    "main.js.map": "/Dogefolio/static/js/main.fb67efd4.chunk.js.map",
+    "runtime-main.js": "/Dogefolio/static/js/runtime-main.251c2a38.js",
+    "runtime-main.js.map": "/Dogefolio/static/js/runtime-main.251c2a38.js.map",
+    "static/js/2.6cf7222a.chunk.js": "/Dogefolio/static/js/2.6cf7222a.chunk.js",
+    "static/js/2.6cf7222a.chunk.js.map": "/Dogefolio/static/js/2.6cf7222a.chunk.js.map",
+    "index.html": "/Dogefolio/index.html",
+    "static/css/main.c9b5544a.chunk.css.map": "/Dogefolio/static/css/main.c9b5544a.chunk.css.map",
+    "static/js/2.6cf7222a.chunk.js.LICENSE.txt": "/Dogefolio/static/js/2.6cf7222a.chunk.js.LICENSE.txt",
+    "static/media/Cheems.fcb866c9.svg": "/Dogefolio/static/media/Cheems.fcb866c9.svg",
+    "static/media/Doge1.a059803d.jpg": "/Dogefolio/static/media/Doge1.a059803d.jpg",
+    "static/media/Doge12.7b3b1216.jpg": "/Dogefolio/static/media/Doge12.7b3b1216.jpg",
+    "static/media/Doge6.43e33065.jpg": "/Dogefolio/static/media/Doge6.43e33065.jpg",
+    "static/media/Doge9.c2f40c19.jpg": "/Dogefolio/static/media/Doge9.c2f40c19.jpg",
+    "static/media/Dogeastro.88a86c8a.svg": "/Dogefolio/static/media/Dogeastro.88a86c8a.svg",
+    "static/media/Dogedance.c90bfb88.svg": "/Dogefolio/static/media/Dogedance.c90bfb88.svg",
+    "static/media/Dogegold.176a4ae3.svg": "/Dogefolio/static/media/Dogegold.176a4ae3.svg",
+    "static/media/Dogestrong.a6eb852f.svg": "/Dogefolio/static/media/Dogestrong.a6eb852f.svg",
+    "static/media/background.webp": "/Dogefolio/static/media/background.f6814621.webp",
+    "static/media/calcy.20a48293.svg": "/Dogefolio/static/media/calcy.20a48293.svg",
+    "static/media/css3.8fba365c.svg": "/Dogefolio/static/media/css3.8fba365c.svg",
+    "static/media/dogelogo.4c86956f.png": "/Dogefolio/static/media/dogelogo.4c86956f.png",
+    "static/media/drum.4fa29020.svg": "/Dogefolio/static/media/drum.4fa29020.svg",
+    "static/media/etch.743d467a.svg": "/Dogefolio/static/media/etch.743d467a.svg",
+    "static/media/html-5.821ba738.svg": "/Dogefolio/static/media/html-5.821ba738.svg",
+    "static/media/javascript.ba40d6a9.svg": "/Dogefolio/static/media/javascript.ba40d6a9.svg",
+    "static/media/rps.69a8920e.svg": "/Dogefolio/static/media/rps.69a8920e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251c2a38.js",
+    "static/js/2.6cf7222a.chunk.js",
+    "static/css/main.c9b5544a.chunk.css",
+    "static/js/main.fb67efd4.chunk.js"
+  ]
+}
