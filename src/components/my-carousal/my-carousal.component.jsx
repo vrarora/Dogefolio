@@ -2,7 +2,7 @@ import React from 'react'
 import Carousel from 'react-bootstrap/Carousel'
 import Slide1 from '../../assets/img/carousal/Doge1.jpg'
 import Slide2 from '../../assets/img/carousal/Doge6.jpg'
-import Slide3 from '../../assets/img/carousal/Doge9.jpg'
+import Slide3 from '../../assets/img/carousal/Doge10.jpg'
 import ScrollDown from '../scroll-down/scroll-down.component'
 
 
