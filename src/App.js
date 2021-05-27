@@ -11,18 +11,23 @@ import About from "./pages/about/about.component";
 import Skills from './pages/skills/skills.component'
 import Experience from "./pages/experience/experience.component"
 import ProjectTimeline from "./components/project-timeline/project-timeline.component"
+import Contact from "./pages/contact-form/contact-form.component"
+import FooterPanel from "./components/footer/footer.component"
+import Particles from "react-particles-js"
+import { particlesOptions } from "./particlesOptions";
 
 import './App.css';
 
 const App = () => {
   return (
-    <div className="App" style={{ position: "relative" }}>
+    <div style={{ position: "relative" }}>
       <MyNavbar />
       <MyCarousal />
       <TitleMessage />
+      <Particles className="particles particles-box"params={particlesOptions}/>
       {/* About Me Section */}
       <div>
-        <Parallax blur={{ min: -30, max: 30 }} bgImage={require("./assets/img/parallex/background.webp")} bgImageAlt="" strength={-200}>
+        <Parallax blur={{ min: -30, max: 30 }} bgImage={require("./assets/img/background/background.webp")} bgImageAlt="" strength={-200}>
           <Container className="container-box rounded">
             <Fade duration={500}>
               <About />
@@ -49,6 +54,7 @@ const App = () => {
           </Fade>
         </Container>
       </div>
+
       {/* Project Section */}
       <div class="container d-flex h-100">
         <Container className="container-box rounded">
@@ -58,6 +64,20 @@ const App = () => {
           </Slide>
         </Container>
       </div>
+
+      {/* Contact */}
+      <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <hr />
+            <Contact />
+          </Fade>
+        </Container>
+      </div>
+
+      <hr />
+      <FooterPanel />
+
     </div>
   );
 }
